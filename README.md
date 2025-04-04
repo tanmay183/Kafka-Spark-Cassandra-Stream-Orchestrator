@@ -140,12 +140,7 @@ SELECT * FROM user_data;
 ## **Conclusion**
 By the end of this project, you will have built a **fully functional, end-to-end real-time data streaming pipeline**. You will understand the core concepts behind **data ingestion, streaming, processing, and storage** using modern **big data technologies**.
 
-🔹 **Next Steps**:
-- Extend the pipeline to process additional data sources.
-- Implement **machine learning models** for real-time analytics.
-- Integrate a **dashboard** using Grafana for monitoring Kafka & Spark metrics.
 
-🎥 **Video Tutorial**: Check out the detailed video walkthrough linked below!
 
 🚀 Happy Coding & Data Engineering!
 
